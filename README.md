@@ -7,4 +7,6 @@ introdução a logica de programação no scratch
 
 Aluno: João Viana
 ## Projetos
-[cálculo da média](https://scratch.mit.edu/projects/881973195/)
+- [cálculo da média](https://scratch.mit.edu/projects/881973195/)
+- [conversão de temperatura] (https://scratch.mit.edu/projects/882607702/)
+- 
