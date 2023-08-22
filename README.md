@@ -6,3 +6,5 @@
 introdução a logica de programação no scratch
 
 Aluno: João Viana
+## Projetos
+[cálculo da média](https://scratch.mit.edu/projects/881973195/)
